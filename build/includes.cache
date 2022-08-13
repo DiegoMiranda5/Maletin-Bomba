@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/diego-miranda/arduino-1.8.19/hardware/arduino/avr/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/diego-miranda/arduino-1.8.19/hardware/arduino/avr/variants/standard"
+  },
+  {
+    "Sourcefile": "/home/diego-miranda/Arduino/MaletinBomba2-0/build/sketch/MaletinBomb.ino.cpp",
+    "Include": "Keypad.h",
+    "Includepath": "/home/diego-miranda/Arduino/libraries/Keypad/src"
+  },
+  {
+    "Sourcefile": "/home/diego-miranda/Arduino/MaletinBomba2-0/build/sketch/MaletinBomb.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "/home/diego-miranda/arduino-1.8.19/libraries/LiquidCrystal/src"
+  },
+  {
+    "Sourcefile": "/home/diego-miranda/Arduino/MaletinBomba2-0/build/sketch/MaletinBomb.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/diego-miranda/Arduino/libraries/Keypad/src/Key.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/diego-miranda/Arduino/libraries/Keypad/src/Keypad.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/diego-miranda/arduino-1.8.19/libraries/LiquidCrystal/src/LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
