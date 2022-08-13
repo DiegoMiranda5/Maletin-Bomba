@@ -21,10 +21,6 @@ void menuPrincipal(){
 
     while(1){
         var = teclado.waitForKey();
-        lcd.setCursor(0,1);
-        lcd.print(i);
-        lcd.setCursor(3,1);
-        lcd.print(var);
         if(var == button_Up && i > 0){
             i--;
             cls();
